@@ -1,4 +1,4 @@
-### Olá, Meu nome é Jason Henrique Bem-Vindo ao meu perfil 👋 
+### Olá, Meu nome é Jason Henrique e Seja Bem-Vindo ao meu perfil 👋 
 
 - 🔭 Atualmente traabalho na Dextra como SRE.
 - 🌱 Ataualmente estou aprendendo sobre Python e Kubernetes
