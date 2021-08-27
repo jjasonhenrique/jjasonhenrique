@@ -1,9 +1,10 @@
 ### Olá, Meu nome é Jason Henrique Bem-Vindo ao meu perfil 👋 
 
 - 🔭 Atualmente traabalho na Dextra como SRE.
-- 🌱 Estou aprendendo sobre Python e Kubernetes
-- 👯 
-- 🤔 I’m looking for help with ...
+- 🌱 Ataualmente estou aprendendo sobre Python e Kubernetes
+- 👯 Quero colaborar com projetos OpenSource e com tecnologias DevOps
+
+##
 
 <div>
   <a href="https://github.com/jjasonhenrique">
