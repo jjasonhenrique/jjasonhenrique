@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá, Meu nome é Jason Henrique Bem-Vindo ao meu perfil 👋 
 
-<!--
-**jjasonhenrique/jjasonhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Atualmente traabalho na Dextra como SRE.
+- 🌱 Estou aprendendo sobre Python e Kubernetes
+- 👯 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/jjasonhenrique">
+  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=jjasonhenrique&show_icons=true&theme=dark&count_private=true"/>
+  <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjasonhenrique&layout=compact&langs=16&theme=dark"/>
+</div>
+
+## 
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jason-K8S" src="https://cdn.iconscout.com/icon/free/png-128/kubernets-283489.png">
+  <img align="center" alt="Jason-AWS" src="https://cdn.iconscout.com/icon/free/png-128/amazon-aws-3521268-2944772.png">
+  <img align="center" alt="Jason-Python" src="https://img.icons8.com/color/2x/python.png">
+  
+</div>
+
+##
+  
+
