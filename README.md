@@ -9,7 +9,9 @@
 
 🛠 Tech Stack
 
-- 💻   Docker | AWS | Terraform | Kubernetes | Observability
+- 💻   Docker | Terraform | Kubernetes 
+- ☁️    AWS | GCP | Azure
+
 
 ##
 
