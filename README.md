@@ -2,8 +2,8 @@
 
 👨🏻‍💻 About Me
 
-- 💼 Site Reliability Engineering at Dextra/CI&T.
-- 🌱 Learning more about Kubernetes and MicroServices.
+- 💼  Site Reliability Engineering at Dextra/CI&T.
+- 🌱  Learning more about Kubernetes and MicroServices.
 
 ##
 
