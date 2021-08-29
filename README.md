@@ -1,8 +1,8 @@
-### I'm Jason Henrique, Welcome 👋 
+### Hi, I'm Jason Henrique, Welcome 👋 
 
 👨🏻‍💻 About Me
 
-- 💼 Working as a DevOps Engineer at Dextra/CI&T.
+- 💼 Site Reliability Engineering at Dextra/CI&T.
 - 🌱 Learning more about Kubernetes and MicroServices.
 
 ##
