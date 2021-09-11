@@ -3,14 +3,16 @@
 👨🏻‍💻 About Me
 
 - 💼  Site Reliability Engineering at Dextra/CI&T.
-- 🌱  Learning more about Kubernetes and MicroServices.
+- 🌱  Learning every day about DevOps Tools
+- ⏰  Learning about Python
 
 ##
 
 🛠 Tech Stack
 
-- 💻   Docker | Terraform | Kubernetes 
-- ☁️    AWS | GCP | Azure
+- 💻  Docker | Terraform | Kubernetes 
+- ☁️   AWS | GCP | Azure
+- 🔎  Dynatrace | Zabbix | Grafana | Prometheus 
 
 
 ##
@@ -23,7 +25,10 @@
 ## 
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jason-K8S" src="https://cdn.iconscout.com/icon/free/png-128/kubernets-283489.png">
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
   
