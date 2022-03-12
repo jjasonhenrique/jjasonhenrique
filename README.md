@@ -11,7 +11,7 @@
 🛠 Tech Stack
 
 - 💻  Docker | Terraform | Kubernetes 
-- ☁️   AWS | GCP | Azure
+- ☁️   AWS | GCP 
 - 🔎  Dynatrace | Zabbix | Grafana | Prometheus 
 
 
