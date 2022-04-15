@@ -2,7 +2,7 @@
 
 👨🏻‍💻 About Me
 
-- 💼  Site Reliability Engineering at Dextra/CI&T.
+- 💼  Site Reliability Engineering at CI&T.
 - 🌱  Learning every day about DevOps Tools
 - ⏰  Learning about Python
 
