@@ -2,7 +2,7 @@
 
 👨🏻‍💻 About Me
 
-- 💼  Site Reliability Engineering at CI&T.
+- 💼  Plataform Engineer at Iti Itau.
 - 🌱  Learning every day about DevOps Tools
 - ⏰  Learning about Python
 
