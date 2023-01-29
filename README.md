@@ -2,7 +2,7 @@
 
 👨🏻‍💻 About Me
 
-- 💼  Plataform Engineer at Iti Itau.
+- 💼  DevOps Engineer at Iti Itau.
 - 🌱  Learning every day about DevOps Tools
 - ⏰  Learning about Python
 
@@ -10,7 +10,7 @@
 
 🛠 Tech Stack
 
-- 💻  Docker | Terraform | Kubernetes 
+- 💻  Containers | Terraform | Kubernetes 
 - ☁️   AWS | GCP 
 - 🔎  Dynatrace | Zabbix | Grafana | Prometheus 
 
