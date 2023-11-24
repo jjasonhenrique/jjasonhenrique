@@ -2,7 +2,7 @@
 
 👨🏻‍💻 About Me
 
-- 💼  DevOps Engineer at Iti Itau.
+- 💼  DevOps Engineer at Itau.
 - 🌱  Learning every day about DevOps Tools
 - ⏰  Learning about Python
 
