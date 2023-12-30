@@ -12,7 +12,13 @@
 
 - 💻  Containers | Terraform | Kubernetes 
 - ☁️   AWS | GCP 
-- 🔎  Dynatrace | Zabbix | Grafana | Prometheus 
+- 🔎  Dynatrace | Zabbix | Grafana | Prometheus
+
+##
+
+:pencil: My articles
+
+- [Testando a ferramenta AWS CodeWhisperer](https://jjasonhenrique.me/2023/01/28/testando-a-ferramenta-aws-codewhisperer/)
 
 
 ##
