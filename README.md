@@ -18,6 +18,8 @@
 
 :pencil: My articles
 
+- [Testando a ferramenta AWS Copilot CLI](https://jjasonhenrique.me/2024/01/20/testando-a-ferramenta-aws-copilot-cli/)
+- [Criando e Configurando um usuário IAM](https://jjasonhenrique.me/2024/01/07/criando-e-configurando-um-usuario-iam/)
 - [Minha Jornada para certificação AWS Solutions Architect](https://jjasonhenrique.me/2023/12/25/minha-jornada-para-certificacao-aws-solutions-architect/)
 - [Deployando uma API usando AWS App Runner](https://jjasonhenrique.me/2023/12/23/deployando-uma-api-usando-aws-app-runner/)
 - [Usando o AWS App Runner para subir uma aplicação](https://jjasonhenrique.me/2023/12/02/usando-o-aws-app-runner-para-subir-uma-aplicacao/)
