@@ -4,20 +4,27 @@
 
 - 💼  DevOps Engineer at Itau.
 - 🌱  Learning every day about DevOps Tools
-- ⏰  Learning about Python
+- ⏰  Learning to program in Golang
 
 ##
 
 🛠 Tech Stack
 
-- 💻  Containers | Terraform | Kubernetes 
+- 💻  Containers | Terraform | Kubernetes | Argo CD
 - ☁️   AWS | GCP 
-- 🔎  Dynatrace | Zabbix | Grafana | Prometheus
 
 ##
 
 :pencil: My articles
 
+- [Gerenciando Acesso no Kubernetes com RBAC](https://jjasonhenrique.me/2024/11/15/gerenciando-acesso-no-kubernetes-com-rbac/)
+- [Kubernetes: Entenda DaemonSet, Deployment e StatefulSet](https://jjasonhenrique.me/2024/10/12/kubernetes-entenda-daemonset-deployment-e-statefulset/)
+- [Como usar a expressão for_each para criar subnets na AWS com Terraform](https://jjasonhenrique.me/2024/08/18/como-usar-a-expressao-for_each-para-criar-subnets-na-aws-com-terraform/)
+- [Configuração de Remote Terraform State com Bucket S3 na AWS](https://jjasonhenrique.me/2024/08/11/configuracao-de-remote-terraform-state-com-bucket-s3-na-aws/)
+- [Gerenciamento de Infraestrutura com GitOps e Argo CD](https://jjasonhenrique.me/2024/06/09/gerenciamento-de-infraestrutura-com-gitops-e-argocd/)
+- [Guia Prático: Configurando Taint, Toleration e NodeAffinity no Kubernetes](https://jjasonhenrique.me/2024/05/31/guia-pratico-configurando-taint-toleration-e-nodeaffinity-no-kubernetes/)
+- [Minha Jornada para certificação AWS SysOps Administrator](https://jjasonhenrique.me/2024/05/03/minha-jornada-para-a-certificacao-aws-sysops-administrator/)
+- [Criando e Configurando uma role IAM](https://jjasonhenrique.me/2024/03/30/criando-e-configurando-uma-role-iam/)
 - [Testando a ferramenta AWS Copilot CLI](https://jjasonhenrique.me/2024/01/20/testando-a-ferramenta-aws-copilot-cli/)
 - [Criando e Configurando um usuário IAM](https://jjasonhenrique.me/2024/01/07/criando-e-configurando-um-usuario-iam/)
 - [Minha Jornada para certificação AWS Solutions Architect](https://jjasonhenrique.me/2023/12/25/minha-jornada-para-certificacao-aws-solutions-architect/)
@@ -54,9 +61,6 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
 </div>
 
   
