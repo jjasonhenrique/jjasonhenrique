@@ -2,7 +2,7 @@
 
 👨🏻‍💻 About Me
 
-- 💼  DevOps Engineer at Itau.
+- 💼  DevOps Engineer.
 - 🌱  Learning every day about DevOps Tools
 - ⏰  Learning to program in Golang
 
